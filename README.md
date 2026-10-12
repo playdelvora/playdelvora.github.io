@@ -2,7 +2,7 @@
 
 A free block game that runs right in your browser. Explore, build and survive across 12 quests, solo or with friends in an online room.
 
-**Play:** https://kaleidoscopic-pegasus-0de9d3.netlify.app
+**Play:** https://gleniofilho.github.io/delvora-3d/
 
 ## Features
 
