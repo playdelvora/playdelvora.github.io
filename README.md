@@ -10,6 +10,10 @@ A free block game that runs right in your browser. Explore, build and survive ac
 - Mining, building and a crafting bench (wood to magma tools, ice coat, basalt boots)
 - Monsters in every biome: zombies, snow wolves, ice and basalt golems, slimes
 - 12 quests that lead to the Magma pickaxe
+- Hidden treasure chests with rare loot, including Life crystals (+1 heart)
+- 15 achievements and a best-time record
+- Sound effects and ambient music, generated live in the browser
+- Block-breaking particles, snow in the ice lands, embers in the lava lands, fireflies at night
 - Online rooms with chat and voice (peer to peer, up to 8 players)
 - God powers for the host: fly, invisible, big brush, undo, time control
 - Works on phones and computers, and offline in solo mode (PWA)
